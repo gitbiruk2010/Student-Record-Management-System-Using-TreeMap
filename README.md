@@ -1,4 +1,6 @@
 # TreeMap Student Management System
+![image](https://github.com/user-attachments/assets/123daaac-71ae-45ce-a497-45038c3036a3)
+![image](https://github.com/user-attachments/assets/d5df9219-993f-4c48-8330-e4b3a71bbb4a)
 
 A Simple Java application demonstrating student record management using TreeMap for natural ordering and efficient operations. Part of the Java Collections Framework learning path.
 
